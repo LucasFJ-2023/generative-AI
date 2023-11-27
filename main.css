@@ -1,0 +1,43 @@
+* {
+    background-color: #ccccff;
+    font-family: Chalkboard;
+    font-size: x-large;
+}
+
+.logo {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.user-input {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: -50px;
+    padding: 2%;
+}
+
+.gymbuddy {
+    display: flex;
+    justify-content: center;
+}
+
+#exercise {
+    display: flex;
+    text-align: center;
+    margin: 8px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+
+.weightlift {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
